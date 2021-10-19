@@ -1,6 +1,6 @@
 <h1 align="center">Syntax Highlighting</h1>
 
-<h4 align='center'>Here are the guide and list for specific language for syntax highlighting [Revolt](https://revolt.chat) supports.</h4>
+<h4 align='center'>Here are the guide and list for specific language for syntax highlighting Revolt supports.</h4>
 <p>ㅤ</p>
 
 ## Code Blocks
