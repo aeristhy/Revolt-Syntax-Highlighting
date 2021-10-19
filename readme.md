@@ -45,3 +45,5 @@ xml
 
 [Highlight.js Guide](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
 [Revolt.chat Markdown Reference](https://developers.revolt.chat/markdown)
+
+If you want to contribute, please follow [contribution.md](https://github.com/aeristhy/Revolt-Syntax-Highlighting/blob/main/contributing.md).
